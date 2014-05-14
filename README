@@ -2,10 +2,11 @@ Firefox is a must for the software to work.
 
 Steps to download the transcript from Youtube videos:
 
-1. Run 'Youtube_Hack.exe'.
-2. You will be asked to enter the complete address for the video whose transcript needs to be downloaded. For eg. "https://www.youtube.com/watch?v=IY3U2GXhz44" (without quotes).
-3. Wait for the hack to run the script, which might take 10-15 seconds.
-4. The transcript will be downloaded in the 'subtitles.txt' file.
+1. Download the entire source in a single folder.
+2. Run 'Youtube_Hack.exe'.
+3. You will be asked to enter the complete address for the video whose transcript needs to be downloaded. For eg. "https://www.youtube.com/watch?v=IY3U2GXhz44" (without quotes).
+4. Wait for the hack to run the script, which might take 10-15 seconds.
+5. The transcript will be downloaded in the 'subtitles.txt' file.
 
 Cheers!
 By - Divanshu Garg.
