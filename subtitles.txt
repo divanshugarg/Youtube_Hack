@@ -1,0 +1,2152 @@
+0:00
+>>> Ladies and gentlemen, please welcome vice
+president of engineering for Google, Vic Gundotra.
+
+0:07
+[ Applause ]
+>>Vic Gundotra: Well, good morning, everybody.
+
+0:16
+You made it, even at this early hour.
+I hope you enjoyed that party last night.
+
+0:21
+How --
+[ Applause ]
+
+0:22
+[ Cheers and applause ]
+>>Vic Gundotra: Yeah?
+
+0:25
+How about that spider?
+Was that cool or what?
+
+0:28
+After a few drinks, I thought that thing was
+going to chase me.
+
+0:30
+A lot of fun.
+Let me also welcome the many thousands who
+
+0:35
+are watching our live stream on YouTube.
+Yesterday, just for your information, we had
+
+0:39
+over 24,000 people watching it concurrently
+live.
+
+0:43
+So in addition to the 5,000-plus folks we
+had here, we had almost 30,000 watch us yesterday.
+
+0:48
+So welcome to everyone watching on YouTube.
+[ Applause ]
+
+0:53
+>>Vic Gundotra: To begin today's keynote,
+I'd like to start with a story.
+
+1:01
+It's a story of my very first day on the job
+at Google.
+
+1:05
+Now, I'm sure you've all been at a new job.
+You understand the apprehensiveness you might
+
+1:11
+feel with a new office, new people.
+It was on that very first day that I met a
+
+1:17
+man named Mr. Andy Rubin.
+Now, I suspect most of you know who Andy Rubin
+
+1:22
+is.
+At the time, he was responsible for what was
+
+1:25
+then a secret project code-named "Android."
+And on that first day, Andy enthusiastically
+
+1:31
+described to me the team's mission and purpose.
+And as he spoke, I'll level with you, I was
+
+1:39
+skeptical.
+In fact, I interrupted Andy.
+
+1:43
+And I said, "Andy, I don't get it.
+Does the world really need another mobile
+
+1:48
+operating system?
+Google's about advertising.
+
+1:51
+Shouldn't we be on every phone?"
+To this day, I remember Andy's response.
+
+1:57
+And he made two points.
+The first point Andy made was that it was
+
+2:02
+critically important to provide a free mobile
+operating system, an open source operating
+
+2:08
+system, that would enable innovation at every
+level of the stack.
+
+2:12
+In other words, OEMs should be free to build
+all kinds of devices, devices with keyboards,
+
+2:18
+without keyboards, with front-facing cameras,
+two inches, three inches, four inches, that
+
+2:24
+operators should be able to compete on the
+strength and coverage of their network, 2G,
+
+2:29
+3G, 4G, LTP, CDMA.
+And that in the end, with innovation coming
+
+2:33
+at every layer, it would be the consumer who
+would be able to benefit by getting the best
+
+2:38
+device and best network for them.
+I remember Andy's second point.
+
+2:44
+He argued that if Google did not act, we faced
+a Draconian future, a future where one man,
+
+2:54
+one company, one device, one carrier would
+be our only choice.
+
+3:00
+[ Applause ]
+>>Vic Gundotra: That's a future we don't want.
+
+3:07
+So if you believe in openness, if you believe
+in choice, if you believe in innovation from
+
+3:14
+everyone, then welcome to Android.
+Now, let's get started.
+
+3:22
+Let's talk a little bit about the momentum
+that we've achieved in 18 months.
+
+3:25
+It's been a year and a half since we've started
+with Android.
+
+3:28
+How are we doing?
+Let's do a little bit of a report card.
+
+3:33
+First of all, let's demonstrate some momentum.
+It's hard to believe that in only 18 months,
+
+3:40
+we've achieved over 60 compatible devices,
+where your software, where your applications
+
+3:46
+can run.
+And these devices are not just from, you know,
+
+3:50
+people you haven't heard of.
+These are from the leading consumer electronic
+
+3:53
+companies in the world, Sony Ericsson, HTC,
+Motorola, and many others, who are producing
+
+3:59
+devices that meet the needs of consumers.
+We think this is pretty fantastic progress
+
+4:05
+in just 18 months.
+Of course, it's not just the creation of the
+
+4:09
+devices.
+It's the 21 OEMs in 48 countries and over
+
+4:13
+59 carriers who have joined the Android revolution.
+Of course, producing devices, making them
+
+4:20
+available across a multitude of countries
+and carriers doesn't necessarily mean that
+
+4:27
+we're going to see adoption.
+Have users found Android to be something that
+
+4:32
+they desire?
+Well, last year, we reported, late last year,
+
+4:38
+that we had reached a sales run rate, a daily
+activation rate, of over 30,000 units a day.
+
+4:46
+In February, just a few months later, we announced
+that our daily run rate had achieved 60,000
+
+4:52
+units a day.
+I'm very proud to announce today that our
+
+4:57
+run rate daily activations has now passed
+100,000 a day.
+
+5:01
+[ Cheers and applause ]
+>>Vic Gundotra: Go, Android!
+
+5:06
+Of course, that momentum has led to some pretty
+significant milestones.
+
+5:15
+One of the ones we are most proud of is that
+this quarter, we are now second in the United
+
+5:19
+States in smartphone sales, second only to
+RIM.
+
+5:23
+And that's pretty amazing progress in 18 months.
+We're second in smartphone sales, but according
+
+5:28
+to AdMob data, we are now first this quarter
+in total Web and app usage.
+
+5:34
+That's fantastic.
+[ Applause ]
+
+5:38
+>>Vic Gundotra: You know, we set a crazy internal
+milestone for ourselves.
+
+5:46
+The phones are being used by consumers, but
+what are they being used for?
+
+5:50
+And we set a crazy internal goal when we shipped
+turn-by-turn navigation for Android.
+
+5:56
+We thought it might be possible to have a
+half a billion miles navigated in the first
+
+6:02
+year.
+In hardly six months, we've now crossed a
+
+6:05
+billion miles navigated with turn-by-turn
+navigation on Android.
+
+6:09
+So users just love that feature.
+Thank you.
+
+6:13
+[ Applause ]
+>>Vic Gundotra: There are some who say that
+
+6:20
+users don't use Google Search on smartphones.
+Well, we're a company driven by data, not
+
+6:25
+by opinions.
+And you know what the data shows?
+
+6:27
+The data shows that we've seen a 5X growth
+in the past two years.
+
+6:31
+That's not just on Android, but that's across
+all smartphone categories.
+
+6:35
+People love Google search.
+You give them a great browser, and they do
+
+6:39
+Google search, tremendous, awesome usage of
+the Web on these devices.
+
+6:44
+Of course, what they love is applications.
+And today I'm happy to announce that we've
+
+6:49
+crossed 50,000 applications in the Android
+Marketplace.
+
+6:53
+And, really, the credit there goes to you.
+Thank you, for the 180,000 developers.
+
+6:57
+Thank you.
+The 180,000 developers who have joined the
+
+7:05
+Android revolution.
+Really, it's your hard work that's paired
+
+7:09
+with the innovation that's coming from OEMs
+and carriers that makes the mobile ecosystem
+
+7:13
+work.
+We certainly couldn't have done this without
+
+7:16
+you.
+Thank you, thank you, thank you for supporting
+
+7:19
+Android.
+[ Applause ]
+
+7:21
+>>Vic Gundotra: Now, let's talk about the
+platform.
+
+7:24
+We've finished the section on momentum.
+Let's talk about what we're doing to make
+
+7:28
+the Android platform continue to evolve and
+get better.
+
+7:32
+In this section, I have over 20 demos, 22
+demos, I believe.
+
+7:35
+In order to help me with that, I'd like to
+invite up on stage Matt Waddell, my partner
+
+7:39
+in crime here.
+Many of you may remember Matt from last year.
+
+7:43
+And we're going to go through a number of
+demos that are going to really showcase what
+
+7:47
+we're doing with Android.
+There are five major areas of investments
+
+7:50
+that we're making in the platform.
+Now, we've been quick to iterate with Android.
+
+7:57
+In fact, there's been seven releases in those
+18 months.
+
+8:00
+And today we're announcing the next release,
+Android 2.2 code-named Froyo.
+
+8:07
+[ Applause ]
+>>Vic Gundotra: What's in Froyo?
+
+8:14
+Let's talk about five pillars.
+Number one, let's begin with speed.
+
+8:20
+Now, as you developers know, the Android architecture
+is one that's built upon a virtual machine,
+
+8:27
+the Dalvik virtual machine.
+We think it's important.
+
+8:30
+It's a critical design decision that we made
+that future-proofs your application.
+
+8:36
+We have big dreams for Android.
+And part of those dreams mean that Android
+
+8:41
+will go to new places with new chip architectures.
+But by having your applications write to the
+
+8:46
+virtual machine, we believe we can carry the
+entire ecosystem to exciting new areas.
+
+8:52
+Of course, that only works if the virtual
+machine is fast and the Dalvik VM has done
+
+8:58
+its job being fast, efficient, and automatic
+and easy for developers.
+
+9:02
+But we can do even better.
+We're very proud to announce that in Froyo,
+
+9:06
+we've added a JIT, a just-in-time compiler,
+this gives up to two to five X speedup of
+
+9:12
+your apps on the exact same hardware.
+Now, this is best demonstrated.
+
+9:17
+And let's do that.
+Let's go to our first demo.
+
+9:20
+We're going to show you a game.
+The game has been modified for purposes of
+
+9:24
+this demo.
+You guys may know Replica Island.
+
+9:27
+Here's what we've done to modify the game.
+The game now will show the frame rate that
+
+9:32
+it's rendering in the bottom right-hand corner.
+If the frame rate drops beneath 30 frames
+
+9:37
+a second, the screen will Flash red.
+Exact same hardware, exact same game, top
+
+9:42
+is running Froyo with JIT compilation, the
+bottom is running Eclair.
+
+9:46
+We're going to introduce a crazy number of
+monsters into this game.
+
+9:49
+You see the monsters keep getting added, increasing
+the complexity.
+
+9:54
+You see the frame rate at the top.
+As we add complexity, it starts to slow down.
+
+9:58
+You'll note there at the bottom, there are
+times when we're dropping beneath 30 frame
+
+10:02
+a second and it's flashing red.
+You'll note at the top, with Froyo, exactly
+
+10:06
+the same game runs much better, never dropping
+beneath 30 frames a second, all because of
+
+10:12
+the JIT compiler.
+All right.
+
+10:14
+Let's go back to slides.
+[ Applause ]
+
+10:19
+>>Vic Gundotra: Now, as Android adoption has
+skyrocketed, people have been taking these
+
+10:28
+devices to work.
+And we've heard loud and clear from the enterprise
+
+10:33
+that they need very specific features.
+Well, in Froyo, we introduce over 20 new features
+
+10:39
+designed to meet the needs of enterprise.
+Let me touch on two of them.
+
+10:43
+Number one, we become Microsoft exchange friendly.
+That means --
+
+10:46
+[ Applause ]
+>>Vic Gundotra: Yes, thank you.
+
+10:49
+That means things like auto-discovery, integration
+with the global address book, the security
+
+10:55
+policies that are available in Exchange can
+be forced upon the device.
+
+10:59
+Number two, we've added new APIs for device
+management.
+
+11:02
+So you can build software that does critically
+important things, like remote wipe of the
+
+11:08
+device if necessary.
+And there's many, many other things that we've
+
+11:11
+added that you'll see in the documentation.
+Let's talk about new services available for
+
+11:18
+developers in the SDK.
+Now, one of the first services I want to talk
+
+11:23
+about is the application data backup API.
+Now, if you use Android and you've gone to
+
+11:30
+another device, you know that Android will
+automatically back up your applications.
+
+11:34
+In other words, you get a new device, you
+log in, and your applications come along with
+
+11:38
+that.
+However, what Android has not done is backed
+
+11:42
+up the data associated with those applications.
+So, for example, I have a particularly favorite
+
+11:48
+application that helps me monitor my exercise
+and my weight.
+
+11:52
+But when I move to a new Android device, the
+application moves, but all my personal data
+
+11:57
+and history doesn't.
+Starting with Froyo, we'll provide an application
+
+12:01
+data backup API that ISVs can take advantage
+of and move the data along with the application.
+
+12:06
+We think that's a great feature.
+In addition to that, we have a brand-new API,
+
+12:14
+a cloud-to-device messaging API.
+Let me be clear, this is not a push notification
+
+12:20
+API designed to compensate for the lack of
+basic functionality like multitasking in the
+
+12:25
+operating system.
+[ Laughter ]
+
+12:27
+>>Vic Gundotra: Okay?
+[ Cheers and applause ]
+
+12:31
+>>Vic Gundotra: We've done something very
+clever I think you're going to love.
+
+12:36
+As a developer, you can send a message to
+our servers which will do very smart things,
+
+12:41
+like collapse similar messages, our servers,
+which will optimize for the latency of mobile
+
+12:46
+networks and make sure that that message gets
+down to the device.
+
+12:50
+But that's only the first step.
+We've done deep integration with Android such
+
+12:54
+that when you send a message, that message
+can trigger an Android intent.
+
+12:59
+Let me show you how powerful this is.
+Let's go to a demo.
+
+13:06
+Now, what Matt has on the screen here on his
+laptop is Google Maps.
+
+13:10
+He's -- in Google Maps -- and he's using the
+Chrome browser.
+
+13:14
+And he's added a Chrome extension.
+The Chrome extension is in the upper right-hand
+
+13:19
+corner.
+That sends it to his phone.
+
+13:21
+In the map, he has directions, he has directions
+from the Moscone Center to Google headquarters.
+
+13:26
+And he wants to send that to the phone.
+What do you think happens?
+
+13:29
+Do you think we send a text message that says,
+"This is the address"?
+
+13:32
+Do you think we send an e-mail?
+No.
+
+13:35
+We send Android intent.
+In other words, when he says send to phone,
+
+13:39
+the message gets sent to our server, gets
+pushed down to the device.
+
+13:41
+The device kicks into navigation mode automatically.
+Keep your eye when he clicks on "send to phone,"
+
+13:47
+keep your eye on the Android device.
+So send it to phone.
+
+13:53
+And on the Android device, boom, right into
+navigation.
+
+13:56
+How hot is that?
+[ Applause ]
+
+14:04
+>>Vic Gundotra: That's how you do a device,
+cloud-to-device API.
+
+14:06
+[ Laughter ]
+>>Vic Gundotra: Let me show you another example.
+
+14:12
+You're reading an article on the desktop.
+You think it's awesome, but you're out of
+
+14:15
+time and you need to run.
+You want to keep reading that on the Android
+
+14:18
+phone.
+Why don't you send that to the device, Matt.
+
+14:22
+To the device.
+Opens up the browser, takes you right to that
+
+14:30
+article, not ever having to press any other
+keys.
+
+14:34
+Isn't that great?
+[ Applause ]
+
+14:36
+>>Vic Gundotra: We can't wait to see what
+you're going to go do with this API.
+
+14:43
+All right.
+Let's go back to slides.
+
+14:50
+You're going to love this.
+[ Cheers and applause ]
+
+14:55
+>>Vic Gundotra: I mean, come on.
+If you're like me, you have a plethora of
+
+15:04
+devices you carry around with you.
+And that -- all those devices shouldn't mean
+
+15:08
+added complexity and yet another bill.
+Right?
+
+15:12
+You should be able to, at the platform level,
+enable tethering.
+
+15:16
+And so now your Android device can in fact
+become a portable hot spot and really serve
+
+15:22
+the needs of these other devices that you
+might have with you.
+
+15:24
+In fact, let's show you a demo of this working.
+Matt has a Nexus One running Froyo.
+
+15:31
+He'll go right into tethering and portable
+hot spot.
+
+15:34
+He'll enable the hot spot.
+He'll give it a name.
+
+15:37
+In fact, I think he's already named this as
+Android AP.
+
+15:41
+And that hot spot will turn on.
+We'll give it a second there.
+
+15:45
+There we go.
+Tethering hot spot is now active.
+
+15:47
+Now he'll go to another device that doesn't
+have connectivity.
+
+15:51
+How about that iPad?
+[ Laughter ]
+
+15:53
+[ Applause ]
+>>Vic Gundotra: And there you go.
+
+16:00
+One bill.
+Isn't that beautiful?
+
+16:02
+All right.
+Let's go back to slides.
+
+16:03
+[ Applause ]
+>>Vic Gundotra: Now, it turns out, do you
+
+16:18
+know what the most popular thing people do
+with these smartphones?
+
+16:22
+What do you think it is?
+It's fairly obvious.
+
+16:25
+Is they actually use the phone.
+Number two thing they do is, they do text
+
+16:30
+messaging.
+And the third most-used application is the
+
+16:34
+browser.
+And so it's critically important for us to
+
+16:37
+make the Android browser rock.
+And we're going to constantly improve that
+
+16:43
+browser.
+And Froyo is a major step in that direction.
+
+16:46
+What have we done in Froyo?
+Well, I think you're going to love this.
+
+16:50
+We have a two to three X performance in the
+browser?
+
+16:53
+How?
+We took the same JavaScript interpreter that
+
+16:57
+we had in Chrome that made Chrome so fast,
+V8, and we brought that into Froyo.
+
+17:02
+Now, the best way to show you how much of
+an advance we've made is to do a demo.
+
+17:07
+So let's go and show you this fantastic performance
+boost.
+
+17:12
+Now, we're going to do this demo with a number
+of devices.
+
+17:15
+We're going to do it --
+>>> Two devices.
+
+17:16
+>>Vic Gundotra: We're going to do this demo
+ -- three devices.
+
+17:20
+We're going to do this demo with Froyo, Eclair,
+and an iPad.
+
+17:24
+Now, here's the demo we're going to do.
+There's an industry-standard test, in fact,
+
+17:30
+there's -- it's a suite of 26 tests, the SunSpider
+test, that really exercise JavaScript performance
+
+17:37
+of all kinds.
+And when Matt presses "start" across these
+
+17:41
+three devices, we're going to exercise each
+one of these 26 tests.
+
+17:46
+As we complete one test, that little Android
+robot will take one breast stroke forward.
+
+17:52
+And as all 26 tests are complete, we're going
+to complete an entire lap.
+
+17:57
+How are we going to go do here?
+Let's go ahead and start this test.
+
+17:59
+Let's what happens.
+Oh, you started the iPad first, trying to
+
+18:02
+give it a little bit of a lead here, huh?
+[ Laughter ]
+
+18:03
+[ Applause ]
+>>Vic Gundotra: You can cheer.
+
+18:07
+It's great.
+[ Cheers and applause ]
+
+18:17
+>>Vic Gundotra: I really wonder if we'll be
+able to get that in the app store.
+
+18:25
+It's a Web app, how great is that?
+All right.
+
+18:32
+Let's go back to slides.
+We think with the performance improvements
+
+18:43
+that we just showed you that we can claim
+that Froyo has the world's fastest mobile
+
+18:48
+browser. And that's a pretty great accomplishment,
+one we are extremely proud of. We're not done.
+
+18:55
+I showed you what's in Froyo, but make no
+mistake about our commitment to maintain leadership
+
+19:01
+in the browser on Android. And one of the
+ways we are doing that is to have standards
+
+19:06
+bodies to enable Web developers to get capabilities
+that were formerly only limited to the native
+
+19:13
+access to the platform.
+What kind of capabilities? Think about the
+
+19:18
+kinds of things you can access on a device,
+things like the magnetometer, the accelerometer.
+
+19:23
+Think about things like the camera or being
+able to access speech. Wouldn't this be great
+
+19:28
+if you could access this from the browser.
+We are going to show you a sneak peek at something
+
+19:33
+beyond Froyo, an early development build that
+will give you a flavor of where we're going
+
+19:38
+next.
+Let's go back to demos.
+
+19:40
+Now, remember, we already got some of this
+work under way. Last year we worked with the
+
+19:45
+standards committees to introduce geo location
+into the browser, and today almost in all
+
+19:49
+major modern platforms, you can make an API
+call from the browser, get location with the
+
+19:55
+user's permission, and then do a feature like
+My Location right within the browser.
+
+19:59
+But we want to do more. How about the accelerometer.
+What about access to tilt in the direction
+
+20:07
+of the device?
+Watch this.
+
+20:12
+Isn't that great? Right within the browser.
+[ Applause ]
+
+20:15
+>>Vic Gundotra: All right.
+Now, another key feature that we have heard
+
+20:21
+from developers that they want access to in
+the browser is the camera.
+
+20:24
+Here, for examples the Buzz Web application.
+We'd love to not only post a Buzz but we would
+
+20:30
+love to be able to include a picture. How
+do you access the camera from the Web browser?
+
+20:35
+In this development build we built those APIs
+right into the Web browser such that Matt
+
+20:39
+can now simply select, if he wants to -- 
+and it looks like in this case this demo is
+
+20:45
+not going to work. We will give it one shot,
+and we will move on if it doesn't work --
+
+20:49
+ but you can access that camera capability
+right from within the browser.
+
+20:54
+And we will show you that in the sandbox later.
+It's great.
+
+20:56
+[ Laughter ]
+>>Vic Gundotra: Let's talk about another capability
+
+21:00
+that's available.
+But before we talk about that capability,
+
+21:04
+let me remind you of what's possible in Android.
+Google, starting about several years ago,
+
+21:10
+really made a deep investment in voice recognition.
+We recognized that the mobile device, because
+
+21:16
+of its limited input capability, would be
+the platform in which people used voice input
+
+21:22
+more than any other platform.
+In fact, we see a stunning number of queries
+
+21:26
+being done on mobile devices where the input
+is a human voice.
+
+21:30
+Now, just as a reminder of how fantastic our
+capability has become over the past two years,
+
+21:36
+let me do a few demos. Or more accurately,
+Matt, why don't you highlight a few cases.
+
+21:41
+>>Matt: Pictures of Barack Obama with the
+French President at the G8 summit.
+
+21:52
+>>Vic Gundotra: That's a tough one. Boom!
+Look at that!
+
+21:54
+[ Applause ]
+>>Vic Gundotra: Because this is so fun, let's
+
+22:02
+do a few more.
+>>Matt: Pictures of the Golden Gate Bridge
+
+22:06
+at sunset.
+>>Vic Gundotra: These are queries you are
+
+22:09
+likely not to type in let alone get a response
+back in a few seconds. Isn't that great?
+
+22:13
+And one more.
+[ Applause ]
+
+22:14
+>>Matt: Del Dotto Vineyards, Napa.
+>>Vic Gundotra: My favorite vineyard in Napa.
+
+22:23
+Boom.
+What Matt just showed you was phenomenal voice
+
+22:27
+recognition that we are now shipping in Japanese,
+English, a number of languages, and that's
+
+22:35
+constantly increasing, but what is coming
+next is the also the ability to understand
+
+22:40
+human intentions. We will give you a very
+simple sneak peek at the kinds of things we
+
+22:45
+are going to enable.
+>>Matt: Call fifth floor restaurant.
+
+22:52
+>>Vic Gundotra: So in this case, because he
+said "call," it got a trigger. And there are
+
+22:58
+many, many more intentions we are going to
+build in and make it very, very simple for
+
+23:02
+to you use voice input as a first class way
+to interact with your Android device.
+
+23:08
+>>Matt: Vic, we have got it.
+>>Vic Gundotra: Let's go back to the camera
+
+23:11
+and see if this thing works. This is a Web
+app. It's a Buzz Web app. There is the camera.
+
+23:16
+From the browser, boom! Right into the camera.
+Isn't that great? And now you can post a picture
+
+23:21
+and give Web developers the same type of capabilities
+you would expect in a native application.
+
+23:26
+Glad that worked. No need for you guys to
+visit the sandbox.
+
+23:31
+[ Applause ]
+>>Vic Gundotra: Getting back to the speech
+
+23:35
+demonstration, what we showed you was capability
+that we make available to developers, but
+
+23:40
+what about accessing that capability from
+the browser? Here is a Web app.
+
+23:45
+It is a translate app from Google with one
+new feature. You will note the microphone
+
+23:51
+right there at the top. Matt, if you could
+just point to the microphone. There it is.
+
+23:54
+And watch what Matt does.
+>>Matt: Can you help me find the nearest hospital?
+
+24:09
+>>> (repeating in French).
+>>Vic Gundotra: Awesome! Awesome!
+
+24:13
+[ Applause ]
+>>Vic Gundotra: All right. Let's go back to
+
+24:17
+slides.
+Now, we're not only committed to making sure
+
+24:25
+that Android -- You can clap. I will let you
+clap.
+
+24:29
+[ Applause ]
+[ Cheering and Applause ]
+
+24:32
+>>Vic Gundotra: You know, I love it when I
+don't even have to speak to a slide and we
+
+24:38
+just get applause.
+[ Laughter ]
+
+24:40
+>>Vic Gundotra: I am so tempted to go on.
+But let me just make a point here. We are
+
+24:44
+not only committed to having the world's fastest
+browser. We're committed to having the world's
+
+24:50
+most comprehensive browser.
+It turns out that on the Internet, people
+
+24:54
+use Flash!
+[ Laughter ]
+
+24:56
+[ Applause ]
+>>Vic Gundotra: And part of being open means
+
+25:01
+you are inclusive, rather than exclusive.
+And you are open to innovation.
+
+25:07
+You know, this was driven home to me very
+powerfully when my daughter picked up my iPad
+
+25:14
+and went to her favorite Web site, Web site
+nickelodeon, and this is what she saw on the
+
+25:18
+iPad.
+Can we switch to the iPad? A sea of orange!
+
+25:25
+[ Laughter ]
+>>Vic Gundotra: She said, "Daddy, can I play
+
+25:30
+with your Android device?" And this is what
+she saw.
+
+25:34
+The full nickelodeon site. Isn't that great?
+That's what openness means.
+
+25:39
+[ Applause ]
+>>Vic Gundotra: And by the way, a special
+
+25:44
+thanks to Adobe for their incredible willingness
+to work with us, engage with us on Android
+
+25:49
+and in chrome and in many other areas. It's
+really fun to work with other folks in the
+
+25:54
+ecosystem to meet the needs of users.
+Much nicer than just saying no.
+
+26:01
+[ Applause ]
+>>Vic Gundotra: All right. Let's go back to
+
+26:04
+slides.
+Now, we have also made significant improvements
+
+26:13
+in the Android Marketplace.
+We listened carefully to the feedback we have
+
+26:19
+gotten from developers and from users, and
+I think you are going to like the enhancements.
+
+26:23
+Let's talk about what we have done on average,
+our data shows that our users are installing
+
+26:28
+more than 40 apps on their Android device,
+so finding those apps is a challenge. Also
+
+26:35
+they want to search within the data of those
+apps, they want to move those apps to the
+
+26:39
+SD card, and they want to update all without
+having to update each individual app by themselves.
+
+26:46
+Let me show you through a series of demos
+what we have done here. Let's go to demos.
+
+26:51
+The first demonstration we are going to show
+you is just searching the apps. Now with the
+
+26:55
+Quick Search box we make it trivially easy
+to scope it to apps. As soon as you start
+
+26:59
+typing a letter, the app you are looking for
+just comes up.
+
+27:02
+It's a simple and easy way to go find apps.
+Not only can you find apps, but we have improved
+
+27:08
+the Quick Search box so developers can plug
+into the search framework. In that case that
+
+27:14
+icon is for Mint. Mint is a financial application,
+and now you are searching within the data
+
+27:20
+of that application bringing up your financial
+records.
+
+27:23
+We think developers are going to extend this
+in all sorts of exciting ways, making not
+
+27:27
+only Android more usable, but their own applications
+be surface, discoverable, and more fun and
+
+27:33
+engaging for the user.
+Another issue we have heard is people want
+
+27:38
+to take advantage of the openness of Android,
+the ability for you to plug in an SD card
+
+27:42
+with arbitrary amounts of memory. And they
+want to move apps not just in the internal
+
+27:46
+memory but off to the SD card.
+Two points. We've enabled that capability
+
+27:52
+in a secure way with Froyo, but we have also
+made it so the user never has to worry about
+
+27:57
+it. When they install an application, we will
+intelligently look at the space and if appropriate,
+
+28:02
+move it to the SD card. If the user wants
+to get involved and manually move things around,
+
+28:08
+that's what this demonstration shows. In this
+case, Matt is going to take a brand-new game,
+
+28:13
+Need for Speed, and he is going to shift that
+game from the internal memory onto the SD
+
+28:18
+card. There you go. The whole 50 megabytes
+is being moved over. Why don't we just start
+
+28:23
+the game. Why don't you launch that game.
+You can see it's on the SD card.
+
+28:27
+Why don't you launch that game. Isn't that
+awesome? Great new game, Need for Speed, and
+
+28:36
+it can live on your SD card.
+Okay. Let's move on.
+
+28:39
+[ Laughter ]
+>>Vic Gundotra: Matt, Matt, we have got to
+
+28:45
+go. I know the game is fun.
+All right. Let's go into the marketplace and
+
+28:49
+talk about....
+[ Laughter ]
+
+28:53
+>>Vic Gundotra: All right. Let's talk about
+update all functionality.
+
+29:00
+Matt, that's you.
+[ Laughter ]
+
+29:01
+>>Vic Gundotra: He is easily distracted.
+All right. Today, you have to update each
+
+29:08
+application individually. In Froyo, we have
+made it simple. At the bottom of the Android
+
+29:13
+Marketplace you see the update all button.
+[ Applause ]
+
+29:15
+>>Vic Gundotra: I am kind of embarrassed you
+have to clap on that. We're glad it's there.
+
+29:24
+We have gone one step further with Froyo.
+Why should the user have to take any action?
+
+29:30
+Starting with Froyo, with the user's permission
+you can allow automatic updating, and all
+
+29:34
+your apps are updated all the time. Isn't
+that great?
+
+29:39
+[ Applause ]
+>>Vic Gundotra: And the user doesn't have
+
+29:42
+to worry about this at all.
+Let's go back to slides.
+
+29:51
+Another key feature we're adding in Froyo
+is designed to meet the needs of developers.
+
+29:56
+We want the best apps on Android, the highest
+quality apps. And that means we need to close
+
+30:01
+the loop when there's a problem.
+Let's go back to a demonstration here, and
+
+30:05
+I am going to show you an app called crashy.
+It does exactly that really well. Matt, why
+
+30:11
+don't you start the app, and it crashed.
+Note there's a button there called Report.
+
+30:17
+The user can press Report, can provide a description
+of what happened. They can look at all the
+
+30:24
+data they are going to send, make sure they
+are comfortable with that data and they can
+
+30:29
+hit send. And that is sent back to the developer.
+Note on this screen the Android Marketplace,
+
+30:35
+note a brand-new tab, "Bugs." And when you
+click on bugs we will show you those reports
+
+30:42
+for your application, and we will show you
+the entire stack trace of what happened.
+
+30:46
+[ Applause ]
+>>Vic Gundotra: We thought you might like
+
+30:57
+that. And closing the loop, allowing apps
+to get better and better.
+
+31:02
+All right. Let's go back to slides.
+I want to go a little bit beyond Froyo and
+
+31:12
+show you a sneak peek at other exciting things
+that we are doing in the Android Marketplace.
+
+31:17
+I think you are going to like some of these
+things. Let's go back to demo.
+
+31:21
+Matt is now showing you the Android Marketplace,
+except this is unlike anything you have ever
+
+31:27
+seen before. It's the Android Marketplace
+accessible from a browser on a PC, and that's
+
+31:32
+great.
+Matt can browse apps, he can look at reviews,
+
+31:39
+but you will look up in the upper right-hand
+corner, Matt is signed in, and because he
+
+31:44
+is signed in, we know every Android device
+that he has.
+
+31:48
+[ Laughter ]
+>>Vic Gundotra: Yeah, he is a little weird.
+
+31:53
+In this case, the device that he has on the
+stage, he has selected at nutter butter, nutty
+
+31:58
+buddy, something. Like I said, he is weird.
+He has got his phone selected, and so now
+
+32:03
+he can go browse a particular app. He is going
+to find an app he likes like Open Table. Hold
+
+32:08
+on, hold on Matt. He is going to hit free
+and he is going to go and download the app.
+
+32:13
+What do you think happens? Let's see, what
+happens today on some other systems. You find
+
+32:18
+the app, you download it to your PC or Mac.
+You then have to tether your device. Once
+
+32:25
+it's on your PC, you have to then convert
+it over that tethering to your device and
+
+32:30
+then make that sync happen. Well, guess what?
+We discovered something really cool. It's
+
+32:35
+called the Internet.
+[ Laughter ]
+
+32:38
+>>Vic Gundotra: And when Matt presses download,
+keep your eye on the Android device.
+
+32:45
+[ Applause ]
+>>Vic Gundotra: Over the air.
+
+32:57
+Isn't that totally great? Over the air, installed
+on your device.
+
+33:02
+Now, it turns out it's called the Android
+ -- or the Marketplace because it's more than
+
+33:06
+apps. In fact, what we are about to show you
+is a new category.
+
+33:11
+How about some music?
+Matt, why don't you find an album or song
+
+33:20
+you like, and why don't you just send it to
+the device using the Internet, over the air.
+
+33:29
+And boom, keep your eye on the Android device.
+There you go. There is the music coming right
+
+33:33
+on down.
+[ Cheering and Applause ]
+
+33:40
+>>Vic Gundotra: Now, we're not done yet. Some
+of you may be thinking this is really cool,
+
+33:48
+this is so hot, but I have my music already
+on my device at home, my Windows media or
+
+33:54
+my iTunes library. I have thousands of songs
+there. What do I do with those?
+
+33:59
+We recently acquired a company called Simplified
+Media and it is our intention to incorporate
+
+34:04
+that technology into the marketplace as well
+and that allows you at home to run a simple
+
+34:09
+piece of hardware that makes all your non-DRM
+music available to your Android device. Would
+
+34:13
+you like to see this? Let's go to your Android
+device.
+
+34:17
+Android device has two songs on it. That's
+nice, but I want more than two songs. I want
+
+34:24
+all my music I have.
+So Matt will go down and select -- I guess
+
+34:29
+he has to plug in the device so you can hear
+it.
+
+34:32
+>>> Options, touch nine. Thank you for calling
+the fifth floor restaurant.
+
+34:39
+>>Vic Gundotra: My God!
+[ Applause ]
+
+34:43
+[ Laughter ]
+>>Vic Gundotra: Let me offer a public apology.
+
+34:48
+Now.
+[ Laughter ]
+
+34:49
+>>Vic Gundotra: You know what's really odd?
+Is that they didn't pick up all that time.
+
+34:55
+[ Laughter ]
+>>Vic Gundotra: Wow!
+
+34:58
+Getting back to music. Two songs. I want all
+my music. He is going to select that button
+
+35:03
+that says all, and magically, all the music
+is now available.
+
+35:07
+Now, you might be wondering what just happened?
+We are making your whole music library available
+
+35:13
+to your Android device as a stream. So, for
+example, if Matt was to select a particular
+
+35:18
+song, I guess Matt's an Earth, Wind and Fire
+fan, hit play. Will this work?
+
+35:26
+(music playing).
+[ Applause ]
+
+35:29
+>>Vic Gundotra: Yeah, we think users are going
+to love this feature.
+
+35:44
+All right. Let's go back to slides.
+Let's talk a little bit about advertising.
+
+35:58
+It turns out that we know a little bit about
+advertising. Today happens or this year happens
+
+36:05
+to be Google's tenth anniversary of providing
+advertising solutions. And we have learned
+
+36:11
+a few things in that decade.
+One of the foremost things we have learned
+
+36:16
+is if you want to have a healthy ecosystem
+of advertising, you need advertisers. And
+
+36:22
+we have hundreds of thousands of them.
+That means if you have an ad spot, we have
+
+36:28
+a relevant ad that can fill it. It's called
+inventory.
+
+36:33
+We're not new at this game. We're not working
+with a handful of partners and charging them
+
+36:37
+a million dollars each to be a part of our
+program.
+
+36:40
+Okay? So we can be your advertising partner.
+We have also learned something else in that
+
+36:46
+decade. That advertisers and accomplishers
+have different kinds of needs.
+
+36:52
+There are local advertisers, there's direct
+response advertisers, there are brand advertisers.
+
+36:58
+And if you want to play, you need formats
+that meet the needs of those kinds of advertisers.
+
+37:04
+And we have those formats.
+A third thing that we have learned, advertising
+
+37:09
+needs to be measured. And that means it needs
+to have great tools.
+
+37:15
+Why does it need to be measured? Well, you
+need to know if the money you are spending
+
+37:18
+is giving you a return on the investment.
+You need to know which campaigns are working
+
+37:22
+so you can invest more in them or tweak them
+as necessary.
+
+37:25
+And it turns out that we have some tools you
+might have heard of called DoubleClick, analytics,
+
+37:32
+AdSense, AdWords? The tools the industry knows
+and loves are being used seamlessly to work
+
+37:41
+in the mobile environment.
+And finally, we know it's important to be
+
+37:44
+open to innovation.
+Now, I don't even know what the ponies have
+
+37:47
+to do with this slide, but part of being open
+is when you get a designer who gives you a
+
+37:53
+slide, you go with it.
+[ Laughter ]
+
+37:55
+>>Vic Gundotra: Let's show you each one of
+these four points and go to demos.
+
+38:04
+Now, these are real advertisers and real applications.
+Let me make that point clear. You are looking
+
+38:09
+at Backgrounds. One of the most popular applications
+available in the Android Marketplace.
+
+38:14
+At the top, you are looking at a Google ad.
+Our ad program, which has been available only
+
+38:19
+to a limited number of beta participants,
+is called AdSense for Mobile Apps, AFMA, and
+
+38:25
+you are looking at one of those AFMA ads.
+You are looking at our large inventory of
+
+38:29
+text ads being optimized and served on that
+device. We are taking advantage of the small
+
+38:35
+space we have and you are seeing the nice
+rotation. That's just one ad format. What
+
+38:40
+happens if Matt selects something like beaches?
+Then we can serve a contextually relevant
+
+38:44
+ad. In this case, Kayak is a popular Web site,
+an application for travel. But in this case
+
+38:51
+when you click on the ad, we take you to deep
+within the Android Marketplace so the user
+
+38:57
+can download the app. That's another important
+ad format.
+
+39:01
+Let's show you another format.
+This is a third format for brand advertising.
+
+39:07
+In other words, a banner ad where an advertiser
+has decided to convey their message through
+
+39:12
+an image. We support that.
+How about another category, and this is something
+
+39:16
+that we are announcing available today, and
+that's an expandable ad format.
+
+39:22
+One of the things that we have seen through
+our research is that users, if at all possible,
+
+39:26
+would like to stay within the context of the
+application they are using.
+
+39:29
+So in this case, when Matt selects that Volkswagen
+ad, it expands right out, you can look at
+
+39:35
+that ad and when he is done with it he can
+simply make it slide right back in.
+
+39:40
+We think that's great for advertisers, and
+we think that's great for users.
+
+39:43
+That expandable format is available today.
+Let me show you another brand-new one we are
+
+39:47
+making available today. This is an expandable
+ad format. This is a Flixter application.
+
+39:52
+Why don't you expand that ad out. In this
+case it's not just display; it's rich media.
+
+39:58
+He is linking directly to a trailer. He clicked
+on it and the trailer will begin and the movie
+
+40:04
+will go ahead and start.
+Matt, don't watch the movie. Let's come back.
+
+40:09
+Let me show you another ad format. This is
+also an expandable ad format, but in this
+
+40:19
+case, this expandable ad format has -- I'm
+sorry, in this case -- I jumped ahead of you.
+
+40:24
+Let's go back to the other one.
+In this case I am going to show you a very
+
+40:26
+popular ad format that has been testing incredibly
+well. This is a click-to-call ad.
+
+40:33
+In this case we are leveraging the fact that
+the user has given us permission to use their
+
+40:36
+location. We know that they are in San Francisco,
+and DirecTV would like to make a special offer
+
+40:42
+to customers in San Francisco and they have
+a new click-to-call option. So simply clicking
+
+40:46
+on that button on that ad allows the customer
+to make that phone call to DirecTV, and that's
+
+40:52
+incredibly valuable.
+Let me talk about another format. This is
+
+40:55
+an expandable format with a clever twist.
+Matt, expand that one out. It includes a map
+
+41:02
+and directions and click-to-call. Isn't that
+great? That's a new format that will become
+
+41:07
+shortly available as well.
+Okay. Finally, let me show what you I meant
+
+41:13
+when I said open to innovation.
+This is the weather.com application, and they
+
+41:19
+are using the industry standard DoubleClick
+software to serve this ad from Google.
+
+41:24
+The ad is at the bottom.
+Now, when Matt clicks on that ad, you get
+
+41:27
+a full screen immersive ad, and it's a pretty
+amazing ad. It's got trailers and TV spots
+
+41:33
+and galleries. Not only does it have a bunch
+of media you can interact with, look at the
+
+41:37
+bottom there. The bottom has the ability for
+you to tap directly into fandango to purchase
+
+41:42
+movie tickets.
+But do you know what the kicker is of what
+
+41:45
+you are seeing? It's not a Google ad. You
+are seeing an immersive ad format delivered
+
+41:52
+by a great advertising company called MediaLabs.
+But because the advertiser -- excuse me the,
+
+41:59
+ISB, the developer used DoubleClick to serve
+the ads, DoubleClick is open to have any ads
+
+42:04
+show up. And that's what it means to be open.
+That we serve the most relevant ad to the
+
+42:09
+user, sometimes from Google, sometimes not,
+but you the developer and the publisher have
+
+42:16
+the choice.
+If would you like to learn more about our
+
+42:22
+advertising solutions, we encourage you to
+go to google.com/mobileads.
+
+42:30
+And we are opening up AFMA, AdSense for Mobile
+Apps, to everybody at the conference, all
+
+42:37
+5,000 of you.
+And we're going to sweeten the deal a little
+
+42:44
+bit.
+If you go sign up, we will give you $100 free
+
+42:47
+advertising credit to start learning the system
+and advertise your apps in the Android Marketplace.
+
+42:51
+So, please, go try that out.
+[ Applause ]
+
+42:56
+>>Vic Gundotra: One of the most powerful ways
+to demonstrate what I talked about at the
+
+43:03
+beginning, that innovation comes from all
+levels of the stack, is to highlight one of
+
+43:09
+my favorite devices.
+This is the device by HTC.
+
+43:14
+It's the EVO device.
+Now, there are several things I love about
+
+43:18
+this device.
+One thing I love about the device is, its
+
+43:20
+absolutely gorgeous 4.3-inch screen.
+I also love how fast it is.
+
+43:26
+I love the great work HTC has done to add
+value.
+
+43:29
+I love the Sprint network.
+It's a 4G network.
+
+43:32
+You know what a 4G network can do?
+It can give you a peak of 10 megabits per
+
+43:36
+second.
+Imagine what you can watch on this device
+
+43:38
+at 10 megabits per second.
+I love the fact that this device has a great
+
+43:44
+little stand.
+You can set it on the desk, or if you're on
+
+43:47
+an airplane, just set it right there and watch
+your content.
+
+43:51
+It's got a great battery.
+It's got HDMI output.
+
+43:53
+It's got a camera that's 8 megapixels and
+that will do 720p HD video recording.
+
+44:00
+And you know what I love most about this device?
+Is that in partnership with Sprint and HTC,
+
+44:07
+Google is going to make this device available
+to every one of you today.
+
+44:12
+[ Cheers and applause ]
+>>Vic Gundotra: Now, for those of you who
+
+44:33
+are watching on YouTube, I'm sorry.
+[ Laughter ]
+
+44:36
+>>Vic Gundotra: Remember to register next
+year, quickly.
+
+44:42
+I think you're going to love that device.
+We ask you to do two things.
+
+44:45
+Number one, don't run out right now.
+After the keynotes are over, we're going to
+
+44:50
+make it available all day until 6:00 p.m.
+So you'll have plenty of time to get this
+
+44:54
+device and really get to see the latest in
+Android innovation.
+
+44:58
+Number two thing we're going to ask.
+Thank you for supporting Android.
+
+45:04
+Thank you for voting on the side of openness
+and choice.
+
+45:09
+[ Cheers and applause ]
+>>Vic Gundotra: Please keep building those
+
+45:18
+great apps.
+Now, we're at the halfway point this morning.
+
+45:23
+We're not done yet.
+If you'd like to see the next step in the
+
+45:28
+evolution of Android and where we're about
+to go next, hang tight.
+
